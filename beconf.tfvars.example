@@ -1,0 +1,5 @@
+storage_account_name = "$STORAGE_ACCOUNT_NAME"
+container_name = "$CONTAINER_NAME"
+key = "$PATH/$STATE-FILE.tfstate"
+resource_group_name = "$RESOURCE_GROUP"
+access_key = "$ACCESS_KEY"
